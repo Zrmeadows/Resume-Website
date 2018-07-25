@@ -14,3 +14,29 @@ Sprint 2 Deliverable:
 Sprint 3 Plan:
   The sprint 3 plan outlines the steps taken to place the header and the footer in separate files and import them into the website. It also outlines the plan to incorporate PHP into the website.
   
+  
+Sprint 3 Deliverable:
+  The sprint 3 deliverable is the submission of my newly updated website after separating the header and footer into php files. It includes a summary of work completed, screenshots of my website, and my retrospective.
+  
+Header.php:
+  contains the header for my website
+  
+Footer.php:
+  contains the footer for my website
+  
+navbar.php
+  contains the navigation bar for my website
+
+index.php:
+  the main webpage of mt website
+  
+about.php:
+  webpage that contains my resume along with a link to download
+  
+contact.php:
+  webpage that contains a link to my Github, my LinkedIn, my email, along with a contact form (not operational)
+  
+.css:
+  all css files are stylesheets for their respected php files above
+  
+  
