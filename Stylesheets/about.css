@@ -1,0 +1,109 @@
+
+h1{
+  font-family: "Fantasy";
+  text-align: center;
+  color: white;
+  font-size: 75px;
+  text-shadow: 1px 1px 0 black,
+               2px 2px 0 black,
+               3px 3px 0 black,
+               4px 4px 0 black,
+               5px 5px 0 black,
+               6px 6px 0 black,
+               7px 7px 0 black,
+               8px 8px 0 black,
+               9px 9px 0 black,
+               10px 10px 3px lightblue;
+}
+
+h2{
+  font-size: 30px;
+  color: yellow;
+  text-shadow: 1px 1px 0 black,
+               2px 2px 0 black,
+               3px 3px 0 black,
+               4px 4px 0 black,
+               5px 5px 3px white;
+}
+
+h3{
+  text-shadow: 1px 1px 0 black,
+               2px 2px 0 black,
+               3px 3px 0 black,
+               4px 4px 0 black,
+               5px 5px 3px white;
+  color: yellow;
+  font-size: 30px;
+}
+
+.resumePageHeader
+{
+  padding: 25px;
+  margin: 1%;
+  margin-top: 0;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  text-shadow: 2px 2px 0 black;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.row{
+  display: flex;
+}
+
+.column{
+  width: 45%;
+  color: white;
+  background-color: black;
+  opacity: 0.5;
+  border-radius: 10px;
+  padding: 25px;
+  float: left;
+  text-align: center;
+  margin: 1%;
+  flex: 1;
+}
+
+.column2{
+  width: 45%;
+  color: white;
+  background-color: black;
+  opacity: 0.5;
+  border-radius: 10px;
+  padding: 25px;
+  float: right;
+  text-align: center;
+  margin: 1%;
+  flex: 1;
+}
+
+.Download {
+  color: white;
+  padding: 1%;
+  background-color: black;
+  opacity: 0.5;
+  border-radius: 10px;
+  float: left;
+  text-align: center;
+  margin: 1%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-style: solid;
+  border-color: transparent;
+}
+.Download a{
+  display: block;
+  width: 100%;
+}
+
+:link{
+  color: white;
+  text-decoration: none;
+}
+.Download:hover{
+  border-style: solid;
+  border-color: white;
+}

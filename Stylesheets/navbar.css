@@ -1,0 +1,56 @@
+nav{
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  opacity:0.5;
+  background-color: black;
+  height: 9%;
+}
+
+nav ul{
+  list-style-type: none;
+  position: fixed;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  opacity: 0.5;
+}
+
+nav li{
+  float:left;
+  border-right: 1px solid white;
+}
+
+nav li a {
+  display:block;
+  text-align: center;
+  padding: 14px 16px;
+  padding-bottom: 0;
+  text-shadow: none;
+  text-decoration: none;
+}
+
+nav h1{
+  font-size: 30px;
+}
+
+a:link{
+  color: blue;
+}
+
+a:visited{
+  color: blue;
+}
+a:hover{
+  color: white;
+}
+
+a:active{
+  color:yellow;
+}
+
+li:last-child{
+  border-right: none;
+}

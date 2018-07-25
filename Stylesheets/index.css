@@ -1,0 +1,40 @@
+
+main {
+width: 50%;
+text-align: center;
+font-size: 45px;
+font-family: 'Fredericka the Great';
+text-shadow: -1px -1px 2px grey, 1px 1px 2px black;
+margin: auto;
+color: white;
+}
+
+.homeTitle {
+  margin-top: 10%;
+  font-family: "Fantasy";
+  text-align: center;
+  color: white;
+  font-size: 55px;
+  text-shadow: 1px 1px 0 black,
+               2px 2px 0 black,
+               3px 3px 0 black,
+               4px 4px 0 black,
+               5px 5px 0 black,
+               6px 6px 0 black,
+               7px 7px 0 black,
+               8px 8px 0 black,
+               9px 9px 0 black,
+               10px 10px 3px lightblue;
+}
+
+img{
+  border-radius: 0%;
+  margin: 5%;
+  border: 2px solid black;
+  max-width: 100%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: auto;
+  margin-bottom: 0;
+}
